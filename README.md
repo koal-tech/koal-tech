@@ -1,4 +1,4 @@
-# Hi, I'm Tolga 👋
+# Hi, 👋
 
 Welcome to my GitHub! I'm a **software enthusiast** passionate about **automation, web development, and building seamless digital experiences**.  
 
